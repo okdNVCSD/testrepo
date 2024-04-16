@@ -1,0 +1,2 @@
+library(boguspackage)
+library(hihipackage)
